@@ -6,13 +6,13 @@ body{
 
 #mainHeading{
     color: rgb(235, 253, 155);
-    font-size: 200%;
+    font-size: 500%;
     margin-top: 5%;
     font-family: 'VT323','Arial','sans-serif';
 }
 
 #mainDiv{
-    width: 40%;
+    width: 35%;
     aspect-ratio: 1/1;
     margin: auto;
     position: relative;
